@@ -1,1 +1,1 @@
-web: gunicorn ineos.wsgi --log-file -
+web: gunicorn IneosDjango.wsgi --log-file -
